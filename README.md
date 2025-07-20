@@ -6,4 +6,6 @@ The different functionalities are as follow:
 3. View History of matches played
 4. Create Squad
 5. View Transfer Market
+## Subheader
+This is a subheader
 
